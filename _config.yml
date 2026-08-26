@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Minseok Park"
+title                    : "Minjeong Park"
 title_separator          : "-"
-name                     : &name "Minseok Park"
-description              : &description "Undergraduate Researcher | UAV · RL · Fault Diagnosis"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://minseok-85.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Minjeong Park"
+description              : &description "HAI Researcher @ Columbia University"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : "https://mingzung2da.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "minseok-85/minseok-85.github.io"
+repository               : "mingzung2da/mingzung2da.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,13 +24,13 @@ repository               : "minseok-85/minseok-85.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Minseok Park"
-  pronouns         : "He/him/his"  
-  bio              : "B.S. Hanyang Univ. | UND Exchange Research"
-  location         : "Seoul, Republic of Korea"
+  name             : "Minjeong Park"
+  pronouns         : "She/Her"  
+  bio              : "M.A. Cognitive Science | HAI Research"
+  location         : "New York City, New York"
   employer         : 
-  uri              : "https://minseok-85.github.io"
-  email            : "pms010805@gmail.com" 
+  uri              : "https://mingzung2da.github.io"
+  email            : "mp4382@tc.columbia.edu" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "minseok-85"
+  github           : "mingzung2da"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "minseokpark085"
+  linkedin         : "minjeong-park-349a40326"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
