@@ -7,19 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate researcher at Hanyang University (B.S. Convergence Electronic Engineering, expected Feb 2027), 
-advised by Dr. Jueming Hu at the University of North Dakota during my exchange program (Jan–May 2026).
-
-My research interests lie in **autonomous UAV control** and **robust path planning**, 
-with a focus on sensor dropout mitigation and safe navigation in dynamic environments.
-I am applying for PhD programs in Fall 2027.
+Hi! I'm a HAI researcher at Columbia University, studying Cognitive Science. I'm interested in **affective cognition** and **human perception in AI-mediated learning and communication**. 
+I'm actively seeking PhD position for this fall 2027 cycle. 
 
 ## Research Highlights
 
-- End-to-end RL autonomous flight simulation (Crazyflie, PyBullet)
-- Entropy-augmented CNN for fault diagnosis — accepted at **ASME IMECE 2026**
+- Effects of Human and AI Feedback on Learner Engagement and Performance: A Scoping Study
+- _International Journal of Educational Technology in Higher Education_
+- (under review, July 2026)
+- 
+- Early Childhood Teachers’ Adoption and Adaptation of AI: An Interview Study
+- _Teachers and Teaching Journal_ & _American Educational Research Association (AERA) 2027_
+- (under review, July 2026)
 
 ## Education
 
-- **Hanyang University** — B.S. Convergence Electronic Engineering, GPA 4.21/4.5 (2021–Feb 2027)
-- **University of North Dakota** — Exchange Program, Undergraduate Research (Jan–May 2026)
+- **Columbia University** — M.A. Cognitive Science, GPA 4.0/4.0 (May 2026)
+- **Chung-Ang University** — B.A. Asian Languages and Literatures / Minor in Computer Science, GPA 3.7/4.0 (August 2024)
+- **San Francisco State University** - Exchange program (May 2022)
