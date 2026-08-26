@@ -12,13 +12,13 @@ I'm actively seeking PhD position for this fall 2027 cycle.
 
 ## Research Highlights
 
-- Effects of Human and AI Feedback on Learner Engagement and Performance: A Scoping Study
-- _International Journal of Educational Technology in Higher Education_
-- (under review, July 2026)
-- 
-- Early Childhood Teachers’ Adoption and Adaptation of AI: An Interview Study
-- _Teachers and Teaching Journal_ & _American Educational Research Association (AERA) 2027_
-- (under review, July 2026)
+- Effects of Human and AI Feedback on Learner Engagement and Performance: A Scoping Study (under review, July 2026)
+  _International Journal of Educational Technology in Higher Education_
+  
+  
+- Early Childhood Teachers’ Adoption and Adaptation of AI: An Interview Study (under review, July 2026)
+  _Teachers and Teaching Journal_ & _American Educational Research Association (AERA) 2027_
+ 
 
 ## Education
 
