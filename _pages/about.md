@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi! I'm a HAI researcher at Columbia University, studying Cognitive Science. 
-My research backgrounds are in **affective cognition** and **human perception in AI-mediated learning and communication**. 
+My research backgrounds are in **affective cognition** and **AI-mediated learning and communication**. 
 I'm actively seeking PhD positions for this fall 2027 cycle!
 
 ## Research Highlights
