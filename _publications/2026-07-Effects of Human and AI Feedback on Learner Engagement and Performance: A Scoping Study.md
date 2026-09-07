@@ -1,7 +1,7 @@
 ---
 title: "Effects of Human and AI Feedback on Learner Engagement and Performance: A Scoping Study"
 collection: publications
-permalink: /publication/2026-07-Effects of Human and AI Feedback on Learner Engagement and Performance
+permalink: /publication/2026-07-Effects-of-Human-and-AI-Feedback-on-Learner-Engagement-and-Performance
 excerpt: 'This paper is about a human perception of feedback by source attribution, AI- or human-generated'
 date: 2026-07
 venue: 'International Journal of Educational Technology in Higher Education'
