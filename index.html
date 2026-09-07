@@ -156,6 +156,14 @@
   .card-chips { display: flex; flex-wrap: wrap; gap: 4px; }
   .chip { font-size: 11px; font-family: var(--font-mono); padding: 2px 7px; border-radius: 3px; background: var(--bg); color: var(--subtle); border: 1px solid var(--border); }
 
+  .card-journal {
+    font-style: italic;
+    font-size: 0.85em;  /* Smaller than card-desc */
+    color: #666;  /* Optional: lighter gray color */
+    margin-top: 4px;
+    margin-bottom: 8px;
+  }
+ 
   /* PUBLICATIONS */
   .pub-list { display: flex; flex-direction: column; gap: 12px; }
   .pub-card {
@@ -323,7 +331,7 @@
         <div class="about-band">
           <h2>About me</h2>
           <p>
-           Hi! I'm a HAI researcher at Columbia University, 
+           Hi! I'm a <strong>HAI researcher at Columbia University</strong>, 
            studying <strong>Cognitive Science</strong>. My research backgrounds are in <strong>affective cognition</strong> 
            and <strong>AI-mediated learning and communication</strong>. I'm actively seeking PhD positions 
            for this <strong>fall 2027</strong> cycle!      
@@ -335,14 +343,12 @@
 
           <div class="project-card" onclick="openModal('uav')">
             <div class="card-img">
-              <video autoplay loop muted playsinline style="width:100%; height:100%; object-fit:contain; background:#ffffff;">
-                <source src="images/UAV_path_planning_final.mp4" type="video/mp4">
-              </video>
+              <img src="images/Figure_1.jpg" alt="">
             </div>
             <div class="card-body">
               <span class="card-badge badge-preparation">Under review, July 2026</span>
               <div class="card-title">Effects of Human and AI Feedback on Learner Engagement and Performance: A Scoping Study</div>
-             <div class>International Journal of Educational Technology in Higher Education</div> 
+             <div class="card-journal">International Journal of Educational Technology in Higher Education</div> 
              <div class="card-desc">First author; in charge of data collection, data analysis, drafting manuscript, and coordinating research process </div>
               <div class="card-chips">
                 <span class="chip">Data Collection</span>
@@ -354,12 +360,12 @@
 
           <div class="project-card" onclick="openModal('eacnn')">
             <div class="card-img">
-              <img src="images/EACNN-FD_flowchart_final.png" alt="">
+              <img src="images/Figure_2.jpg" alt="">
             </div>
             <div class="card-body">
                <span class="card-badge badge-preparation">Under review, July 2026</span>
               <div class="card-title">Early Childhood Teachers’ Adoption and Adaptation of AI: An Interview Study </div>
-             <div class>Teachers and Teaching Journal & American Educational Research Association (AERA) 2027</div> 
+             <div class="card-journal">Teachers and Teaching Journal & American Educational Research Association (AERA) 2027</div> 
              <div class="card-desc">Second author; in charge of data coding, data analysis and review, and drafting manuscript </div>
               <div class="card-chips">
                 <span class="chip">Data Coding</span>
