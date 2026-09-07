@@ -1,4 +1,4 @@
----
+
 title: "Early Childhood Teachers’ Adoption and Adaptation of AI: An Interview Study"
 collection: publications
 permalink: /publication/2026-08-14-Early-Childhood-Teachers-Adoption-and-Adaptation-of-AI-An-Interview-Study
@@ -7,7 +7,7 @@ date: 2026-08-14
 venue: 'Teachers and Teaching Journal'
 # paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
----
+
 
 This interview study explored how early childhood education (ECE) teachers (teaching from pre-
 kindergarten through third grade) navigated AI adoption and adaptation. It was guided by the
