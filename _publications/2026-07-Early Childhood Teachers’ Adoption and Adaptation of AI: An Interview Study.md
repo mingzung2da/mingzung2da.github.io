@@ -1,7 +1,7 @@
 ---
 title: "Early Childhood Teachers’ Adoption and Adaptation of AI: An Interview Study"
 collection: publications
-permalink: /publication/2026-07-Early Childhood Teachers’ Adoption and Adaptation of AI
+permalink: /publication/2026-07-Early-Childhood-Teachers-Adoption-and-Adaptation-of-AI-An-Interview-Study.md
 excerpt: 'This paper is about how ECE teachers adopt and adapt AI in their teaching. The findings identified ECE teachers' experience of AI use based on POWER framework developed by Chen and Lin (2024): purposeful, optimal, wise, ethical, and responsible.'
 date: 2026-07
 venue: 'Teachers and Teaching Journal'
